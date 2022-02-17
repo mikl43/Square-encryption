@@ -3,4 +3,4 @@ The Square algorithm is interesting primarily for two reasons. Firstly, this alg
 Moreover, it was the structure of the Square algorithm that formed the basis of the Rijndael algorithm. The structure of the algorithm is very unconventional for modern symmetric data encryption algorithms - this is true both for 1997, when the Square algorithm was developed, and for 2000, when, when summing up the results of the AES competition, experts noted that "the basis of the Rijndael algorithm is an unconventional paradigm , so the algorithm may contain hidden vulnerabilities." This did not stop Rijndael from becoming the new US encryption standard, and that very unconventional structure is now called "square" (square) - after the name of the algorithm in which it was first applied.
 By the way, another algorithm with a Square-like structure also participated in the AES competition - the Crypton algorithm, developed by completely different authors.
 
-The algorithm is implemented in Microsoft Visual Studio 2019.
+The algorithm is implemented in Microsoft Visual Studio 2019, programming language C#.
