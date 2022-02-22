@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Square
 {
-    //класс матода Square
+    //класс метода Square
     class Square
     {
         public Square()
@@ -101,7 +101,7 @@ namespace Square
                 constant *= 2;
             }
         }
-        //addition operation in the Gaul field of two words операция сложения в поле Гаула двух слов
+        //addition operation in the Gaul field of two words операция сложения в поле Галуа двух слов
         private byte[] AddGaul(byte[] mas1, byte[] mas2)
         {
             byte[] result = new byte[4];
